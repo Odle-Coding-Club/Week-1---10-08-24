@@ -1,0 +1,1 @@
+Hi everyone, my name is Bogdan Genkin and I am in 7th grade. I have a lot of experience with coding in Python and Javascript. Some of my major projects include a Mario recreation with Jackson Xiang and I am currently working on a Geometry Dash game. I also do problems on leetcode in my spare time. Can't wait to work with all of you on something awesome!
